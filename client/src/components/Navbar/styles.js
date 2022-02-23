@@ -42,9 +42,6 @@ export default makeStyles((theme) => ({
     backgroundColor: deepPurple[500],
   },
   [theme.breakpoints.down("xs")] :{
-    appBar :{
-      width: "320px",
-    },
     heading:{
       fontSize:"25px"
     },
