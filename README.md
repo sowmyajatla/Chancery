@@ -2,6 +2,10 @@
 Chancery is a website that provides interview experiences of others in different companies to  make you prepare well ahead.
 
 **It is a MERN stack project that is built using reactJs as frontend and nodeJs,Express as backend along with mongoDB,mongoose database and deployed using heroku and neltify**
+
+**It is mobile responsive also**
+
+
 my webiste link : https://sowmya-chancery.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/87930260/155360583-bb6c64f9-000b-444f-95af-e321fd0b1127.png)
